@@ -3,7 +3,7 @@
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
 |---------|--------|-------|--------|--------|
 | 11.01 | [동전0](https://www.acmicpc.net/problem/11047) | Greedy | Baekjoon | Silver5 |
-| 11.02 |  |  |  |  |
+| 11.02 | [1,2,3더하기](https://www.acmicpc.net/problem/9095) | dp | Baekjoon | Silver3 |
 | 11.03 |  |  |  |  |
 | 11.04 |  |  |  |  |
 | 11.05 |  |  |  |  |
