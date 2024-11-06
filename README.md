@@ -6,6 +6,7 @@
 | 11.05 | [1,2,3더하기(9095)](https://www.acmicpc.net/problem/9095) | dp | Baekjoon | S3 |
 |       | [패션왕 신해빈(9375)](https://www.acmicpc.net/problem/9375) | Hash | Baekjoon | S3 |
 | 11.06 | [구간 합 구하기 4 (11659)](https://www.acmicpc.net/problem/11659) | 누적합 | Baekjoon | S3 |
+|       | [2xn 타일링 (11726)](https://www.acmicpc.net/problem/11659) | dp | Baekjoon | S3 |
 | 11.07 |  |  |  |  |
 | 11.08 |  |  |  |  |
 | 11.09 |  |  |  |  |
