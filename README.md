@@ -2,10 +2,10 @@
 
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
 |---------|--------|-------|--------|--------|
-| 11.04 | [동전0(11047)](https://www.acmicpc.net/problem/11047) | Greedy | Baekjoon | Silver5 |
-| 11.05 | [1,2,3더하기(9095)](https://www.acmicpc.net/problem/9095) | dp | Baekjoon | Silver3 |
-|       | [패션왕 신해빈(9375)](https://www.acmicpc.net/problem/9375) | Hash | Baekjoon | Silver3 |
-| 11.06 |  |  |  |  |
+| 11.04 | [동전0(11047)](https://www.acmicpc.net/problem/11047) | Greedy | Baekjoon | S5 |
+| 11.05 | [1,2,3더하기(9095)](https://www.acmicpc.net/problem/9095) | dp | Baekjoon | S3 |
+|       | [패션왕 신해빈(9375)](https://www.acmicpc.net/problem/9375) | Hash | Baekjoon | S3 |
+| 11.06 | [구간 합 구하기 4 (11659)](https://www.acmicpc.net/problem/11659) | 누적합 | Baekjoon | S5 |
 | 11.07 |  |  |  |  |
 | 11.08 |  |  |  |  |
 | 11.09 |  |  |  |  |
