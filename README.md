@@ -7,7 +7,7 @@
 |       | [패션왕 신해빈(9375)](https://www.acmicpc.net/problem/9375) | Hash | Baekjoon | S3 |
 | 11.06 | [구간 합 구하기 4 (11659)](https://www.acmicpc.net/problem/11659) | 누적합 | Baekjoon | S3 |
 |       | [2xn 타일링 (11726)](https://www.acmicpc.net/problem/11659) | dp | Baekjoon | S3 |
-| 11.07 |  |  |  |  |
+| 11.07 | [2Xn 타일링 2(11727)](https://www.acmicpc.net/problem/11727) | dp | Baekjoon | S3 |
 | 11.08 |  |  |  |  |
 | 11.09 |  |  |  |  |
 | 11.10 |  |  |  |  |
