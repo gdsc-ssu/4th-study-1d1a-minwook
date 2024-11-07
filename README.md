@@ -8,6 +8,7 @@
 | 11.06 | [구간 합 구하기 4 (11659)](https://www.acmicpc.net/problem/11659) | 누적합 | Baekjoon | S3 |
 |       | [2xn 타일링 (11726)](https://www.acmicpc.net/problem/11659) | dp | Baekjoon | S3 |
 | 11.07 | [2Xn 타일링 2(11727)](https://www.acmicpc.net/problem/11727) | dp | Baekjoon | S3 |
+|       | [Four Squares (11626)](https://www.acmicpc.net/problem/11626) | dp,brute-force | Baekjoon | S3 |
 | 11.08 |  |  |  |  |
 | 11.09 |  |  |  |  |
 | 11.10 |  |  |  |  |
