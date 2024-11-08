@@ -9,7 +9,7 @@
 |       | [2xn 타일링 (11726)](https://www.acmicpc.net/problem/11659) | dp | Baekjoon | S3 |
 | 11.07 | [2Xn 타일링 2(11727)](https://www.acmicpc.net/problem/11727) | dp | Baekjoon | S3 |
 |       | [Four Squares (11626)](https://www.acmicpc.net/problem/11626) | dp,brute-force | Baekjoon | S3 |
-| 11.08 |  |  |  |  |
+| 11.08 | [최소 힙 (1729)](https://www.acmicpc.net/problem/1729) | 자료구조 | Baekjoon | S2 |
 | 11.09 |  |  |  |  |
 | 11.10 |  |  |  |  |
 | 11.11 |  |  |  |  |
