@@ -11,7 +11,7 @@
 |       | [Four Squares (11626)](https://www.acmicpc.net/problem/11626) | dp,brute-force | Baekjoon | S3 |
 | 11.08 | [최소 힙 (1729)](https://www.acmicpc.net/problem/1729) | 자료구조 | Baekjoon | S2 |
 | 11.09 | X |  |  |  |
-| 11.10 | [색종이 만들기 (2630)](https://www.acmicpc.net/problem/2630) | 분할정복 | Baekjoon | S2 |
+| 11.10 | [색종이 만들기 (2630)](https://www.acmicpc.net/problem/2630) | 분할정복 | Baekjoon | S2 |
 | 11.11 |  |  |  |  |
 | 11.12 |  |  |  |  |
 | 11.13 |  |  |  |  |
