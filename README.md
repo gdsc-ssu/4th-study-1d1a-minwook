@@ -15,7 +15,7 @@
 | 11.11 | [나무 자르기 (2805)](https://www.acmicpc.net/problem/2805) | parameter search | Baekjoon | S2 |
 | 11.12 | [최대 힙 (11279)](https://www.acmicpc.net/problem/11279) | 자료구조 | Baekjoon | S2 |
 | 11.13 | [연결 요소의 개수 (11724)](https://www.acmicpc.net/problem/11724) | dfs | Baekjoon | S2 |
-| 11.14 |  |  |  |  |
+| 11.14 | [마인크래프트 (181111)](https://www.acmicpc.net/problem/18111) | Brute-Force | Baekjoon | S2 |
 | 11.15 |  |  |  |  |
 | 11.16 |  |  |  |  |
 | 11.17 |  |  |  |  |
