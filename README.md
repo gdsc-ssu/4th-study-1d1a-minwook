@@ -2,7 +2,7 @@
 
 | 날짜    | 문제   | 종류  | 플랫폼 | 난이도 |
 |---------|--------|-------|--------|--------|
-| 11.04 | [동전0(11047)](https://www.acmicpc.net/problem/11047) | Greedy | Baekjoon | S5 |
+| 11.04 | [동전0(11047)](https://www.acmicpc.net/problem/11047) | greedy | Baekjoon | S5 |
 | 11.05 | [1,2,3더하기(9095)](https://www.acmicpc.net/problem/9095) | dp | Baekjoon | S3 |
 |       | [패션왕 신해빈(9375)](https://www.acmicpc.net/problem/9375) | Hash | Baekjoon | S3 |
 | 11.06 | [구간 합 구하기 4 (11659)](https://www.acmicpc.net/problem/11659) | 누적합 | Baekjoon | S3 |
@@ -19,7 +19,7 @@
 | 11.15 | [좌표 압축 (18870)](https://www.acmicpc.net/problem/18870) | Sort | Baekjoon | S2 |
 |       | [헌내기는 친구가 필요해 (21736)](https://www.acmicpc.net/problem/21736) | dfs | Baekjoon | S2 |
 | 11.16 | [과일 탕후루 (30804)](https://www.acmicpc.net/problem/30804) | Two Pointer | Baekjoon | S2 |
-| 11.17 |  |  |  |  |
+| 11.17 | [회의실 배정 (1931)](https://www.acmicpc.net/problem/1931) | greedy | Baekjoon | S1 |
 | 11.18 |  |  |  |  |
 | 11.19 |  |  |  |  |
 | 11.20 |  |  |  |  |
