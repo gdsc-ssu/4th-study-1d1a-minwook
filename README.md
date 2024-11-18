@@ -20,7 +20,7 @@
 |       | [헌내기는 친구가 필요해 (21736)](https://www.acmicpc.net/problem/21736) | dfs | Baekjoon | S2 |
 | 11.16 | [과일 탕후루 (30804)](https://www.acmicpc.net/problem/30804) | Two Pointer | Baekjoon | S2 |
 | 11.17 | [회의실 배정 (1931)](https://www.acmicpc.net/problem/1931) | greedy | Baekjoon | S1 |
-| 11.18 |  |  |  |  |
+| 11.18 | [쉬운 최단거리 (14940)](https://www.acmicpc.net/problem/14940) | bfs | Baekjoon | S1 |
 | 11.19 |  |  |  |  |
 | 11.20 |  |  |  |  |
 | 11.21 |  |  |  |  |
