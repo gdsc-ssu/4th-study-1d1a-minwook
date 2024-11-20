@@ -22,7 +22,7 @@
 | 11.17 | [회의실 배정 (1931)](https://www.acmicpc.net/problem/1931) | greedy | Baekjoon | S1 |
 | 11.18 | [쉬운 최단거리 (14940)](https://www.acmicpc.net/problem/14940) | bfs | Baekjoon | S1 |
 | 11.19 | [토마토 (7576)](https://www.acmicpc.net/problem/7576) | bfs | Baekjoon | G5 |
-| 11.20 |  |  |  |  |
+| 11.20 | [미로 탐색 (2178)](https://www.acmicpc.net/problem/2178) | bfs | Baekjoon | S1 |
 | 11.21 |  |  |  |  |
 | 11.22 |  |  |  |  |
 | 11.23 |  |  |  |  |
