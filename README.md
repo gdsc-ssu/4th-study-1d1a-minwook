@@ -24,8 +24,8 @@
 | 11.19 | [토마토 (7576)](https://www.acmicpc.net/problem/7576) | bfs | Baekjoon | G5 |
 | 11.20 | [미로 탐색 (2178)](https://www.acmicpc.net/problem/2178) | bfs | Baekjoon | S1 |
 | 11.21 | [카잉 달력 (6064)](https://www.acmicpc.net/problem/6064) | brute-force | Baekjoon | S1 |
-| 11.22 |  |  |  |  |
-| 11.23 |  |  |  |  |
+| 11.22 | [절댓값 힙 (11286)](https://www.acmicpc.net/problem/11286) | 자료구조 | Baekjoon | S1 |
+| 11.23 | [단지번호붙이기 (2667)](https://www.acmicpc.net/problem/2667) | dfs | Baekjoon | S1 |
 | 11.24 |  |  |  |  |
 | 11.25 |  |  |  |  |
 | 11.26 |  |  |  |  |
