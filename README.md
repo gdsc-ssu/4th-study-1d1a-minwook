@@ -28,7 +28,7 @@
 | 11.23 | [단지번호붙이기 (2667)](https://www.acmicpc.net/problem/2667) | dfs | Baekjoon | S1 |
 | 11.24 | X |  |  |  |
 | 11.25 | [경로 찾기 (11403)](https://www.acmicpc.net/problem/11403) | bfs | Baekjoon | S1 |
-| 11.26 |  |  |  |  |
+| 11.26 | [AC (5430)](https://www.acmicpc.net/problem/5430) | deque | Baekjoon | G5 |
 | 11.27 |  |  |  |  |
 | 11.28 |  |  |  |  |
 | 11.29 |  |  |  |  |
