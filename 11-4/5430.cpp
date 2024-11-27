@@ -11,8 +11,6 @@ int main(){
     cout.tie(NULL);
 
     deque<int> dq;
-    bool flag = true;
-    bool err = true;
     int T;
     cin >> T;
 
@@ -24,24 +22,31 @@ int main(){
         cin >> n;
         string x;
         cin >> x;
-        string str = "";
+        bool flag = true;
+        bool err = true;
+        string temp = "";
 
-        for(int i=1; i<x.length(); i++){
-            if (x[i] == ',' || x[i] == ']'){
-                if(str != ""){
-                    dq.push_back(stoi(str));
-                    str="";
+        for(int i=1; i<p.length(); i++){
+            if (p[i] == ',' || p[i] == ']'){
+                if(temp != ""){
+                    dq.push_back(stoi(temp));
+                    temp = "";
                 }
             }
             else{
-                str += x[i];
+                temp += p[i];
             }
         }
 
-        for(int i=0; i<p.length(); i++){
+        for(int i=0 ; i<dq.size(); i++){
+            cout << dq[i] << ' ';
+        }
+        cout << '\n';
+
+        for(int i=0; i<p.size(); i++){
             char ch = p[i];
             if(ch == 'R'){
-                if(flag) flag = false;
+                flag = !flag;
             }
             else if(ch == 'D'){
                 if(dq.empty()){
@@ -54,8 +59,12 @@ int main(){
                 }
             }
         }
-        if(flag){
-            if (!flag) reverse(dq.begin(),dq.begin());
+
+        if(!err){
+            cout << "error" << '\n';
+        }
+        else{
+            if (!flag) reverse(dq.begin(),dq.end());
             cout << '[';
             for(int i=0; i<dq.size(); i++){
                 if(i == dq.size() -1 ){
@@ -66,11 +75,6 @@ int main(){
                 }
             }
             cout << ']' << '\n';
-
-            dq.clear();
-        }
-        else{
-            cout << "error" << '\n';
         }
     }
 
