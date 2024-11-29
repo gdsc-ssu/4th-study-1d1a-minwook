@@ -31,7 +31,7 @@
 | 11.26 | [AC (5430)](https://www.acmicpc.net/problem/5430) | 자료구조 | Baekjoon | G5 |
 | 11.27 | [적록색약 (10026)](https://www.acmicpc.net/problem/10026) | bfs | Baekjoon | G5 |
 | 11.28 | [체스판 다시 칠하기 (1018)](https://www.acmicpc.net/problem/1018) | brute-force | Baekjoon | S4 |
-| 11.29 |  |  |  |  |
+| 11.29 | [제로 (10773)](https://www.acmicpc.net/problem/10773) | 자료구조 | Baekjoon | S4 |
 | 11.30 |  |  |  |  |
 | 12.01 |  |  |  |  |
 | 12.02 |  |  |  |  |
