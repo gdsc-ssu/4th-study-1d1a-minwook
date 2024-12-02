@@ -34,7 +34,7 @@
 | 11.29 | [제로 (10773)](https://www.acmicpc.net/problem/10773) | 자료구조 | Baekjoon | S4 |
 | 11.30 | [스택 (10828)](https://www.acmicpc.net/problem/10828) | 자료구조 | Baekjoon | S4 |
 | 12.01 | [듣보잡 (1764)](https://www.acmicpc.net/problem/1764) | 자료구조 | Baekjoon | S4 |
-| 12.02 | [2xn 타일링 (11726)](https://www.acmicpc.net/problem/11726) | dp | Baekjoon | S3 |
+| 12.02 | [2xn 타일링 (11726)](https://www.acmicpc.net/problem/11726) | dp | Baekjoon | S3 |
 | 12.03 |  |  |  |  |
 | 12.04 |  |  |  |  |
 | 12.05 |  |  |  |  |
