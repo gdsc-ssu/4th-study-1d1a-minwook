@@ -39,8 +39,8 @@ Z# 4th-study-1d1a-minwook
 | 12.04 | [1로 만들기 (1463)](https://www.acmicpc.net/problem/1463) | dp | Baekjoon | S3 |
 | 12.05 | X |  |  |  |
 | 12.06 | [임시반장 정하기 (1268](https://www.acmicpc.net/problem/1268) | 구현 | Baekjoon | S5 |
-| 12.06 |  |  |  |  |
-| 12.07 |  |  |  |  |
+| 12.06 | X |  |  |  |
+| 12.07 | X |  |  |  |
 | 12.09 |  |  |  |  |
 | 12.10 |  |  |  |  |
 | 12.11 |  |  |  |  |
