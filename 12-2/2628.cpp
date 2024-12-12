@@ -7,33 +7,33 @@ int main() {
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 
-	int garo, sero; cin >> sero >> garo;
-	vector<int> garocut = { 0,garo };
-	vector<int> serocut = { 0,sero };
+	int row, col; cin >> col >> row;
+	vector<int> rowcut = { 0,row };
+	vector<int> colcut = { 0,col };
 
 	int N; cin >> N;
 	while (N--) {
 		bool x; int y; cin >> x >> y;
-		if (x) serocut.push_back(y);
-		else garocut.push_back(y);
+		if (x) colcut.push_back(y);
+		else rowcut.push_back(y);
 	}
 
-	sort(garocut.begin(), garocut.end());
-	sort(serocut.begin(), serocut.end());
+	sort(rowcut.begin(), rowcut.end());
+	sort(colcut.begin(), colcut.end());
 
-	garo = (int) garocut.size();
-	sero = (int) serocut.size();
+	row = (int) rowcut.size();
+	col = (int) colcut.size();
 	
-	int maxgaro = 0;
-	int maxsero = 0;
-	for (int i = 1; i < garo; i++) {
-		int temp = garocut[i] - garocut[i - 1];
-		if (temp > maxgaro) maxgaro = temp;
+	int maxrow = 0;
+	int maxcol = 0;
+	for (int i = 1; i < row; i++) {
+		int temp = rowcut[i] - rowcut[i - 1];
+		if (temp > maxrow) maxrow = temp;
 	}
-	for (int i = 1; i < sero; i++) {
-		int temp = serocut[i] - serocut[i - 1];
-		if (temp > maxsero) maxsero = temp;
+	for (int i = 1; i < col; i++) {
+		int temp = colcut[i] - colcut[i - 1];
+		if (temp > maxcol) maxcol = temp;
 	}
 
-	cout << maxgaro * maxsero;
+	cout << maxrow * maxcol;
 }
