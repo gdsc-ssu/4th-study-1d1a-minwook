@@ -45,6 +45,6 @@ Z# 4th-study-1d1a-minwook
 | 12.10 | X |  |  |  |
 | 12.11 | [종이자르기 (2628](https://www.acmicpc.net/problem/2628) | 구현 | Baekjoon | S5 |
 | 12.12 | [막대기 (1094](https://www.acmicpc.net/problem/1094) | 구현 | Baekjoon | S5 |
-| 12.13 |  |  |  |  |
-| 12.14 |  |  |  |  |
-| 12.15 |  |  |  |  |
+| 12.13 | X |  |  |  |
+| 12.14 | X |  |  |  |
+| 12.15 | X |  |  |  |
